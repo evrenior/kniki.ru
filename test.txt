@@ -1,1 +1,3 @@
 Просто файл тестирования.
+ Строка текста для edits-for-code
+ 3rd line of code as requested
